@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { Home } from './home/Home';\nexport default Home;","map":{"version":3,"sources":["C:/Users/ManishModi/Downloads/WTC/apps/fe-wtc-tech-test/pages/index.tsx"],"names":[],"mappings":"AAAA,SAAA,IAAA,QAAA,aAAA;AAEA,eAAA,IAAA","sourcesContent":["import { Home } from './home/Home';\r\n\r\nexport default Home;\r\n"]},"metadata":{},"sourceType":"module"}
